@@ -4,4 +4,5 @@ require("catppuccin").setup({
 })
 
 vim.cmd.colorscheme "catppuccin"
+
 vim.wo.relativenumber = true
